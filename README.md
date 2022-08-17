@@ -1,7 +1,7 @@
 # SiteCoffe
 Site estático ilustrativo simples. Fiz com o objetivo de praticar e mostrar um pouco da minha competência.
 
-Destaques CSS <br/>
+Destaque CSS <br/>
 FlexBox <br/>
 Media Queries <br/> 
 
