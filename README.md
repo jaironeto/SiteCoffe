@@ -4,6 +4,7 @@ Site estático ilustrativo simples. Fiz com o objetivo de praticar e mostrar um 
 Destaque CSS <br/>
 FlexBox <br/>
 Media Queries <br/> 
+Selectors <br/>
 
 Destaque Node.js <br/>
 HTTP API <br/>
